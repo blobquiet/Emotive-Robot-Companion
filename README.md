@@ -11,7 +11,7 @@ Report [here]().
 
 Ada's on-board circuit
 
-![circuit](.\images\circuit.png)
+![circuit](https://github.com/blobquiet/Emotive-Robot-Companion-CIR/blob/main/images/circuit.png)
 
 ​																																						Source (circuito.io)
 
@@ -19,4 +19,4 @@ Ada's on-board circuit
 
 ​																					Thanks bye!
 
-![fall](.\images\fall.gif)
+![fall](https://github.com/blobquiet/Emotive-Robot-Companion-CIR/blob/main/images/fall.gif)
