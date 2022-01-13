@@ -1,0 +1,2 @@
+# Emotive-Robot-Companion
+Emotive Robot Companion. The robot Ada is capable of responding by movement to simple keywords from the users, using two separate aspects. The first is a speech recognition algorithm, using Machine Learning on an Arduino Nano 33 BLE Sense. The second is to use this Arduino chip to control a physical robot, known under the name of Otto, able to move around accordingly to what was understood.
