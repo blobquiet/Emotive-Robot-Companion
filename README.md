@@ -3,7 +3,7 @@ Emotive Robot Companion. The robot Ada is capable of responding by movement to s
 
 For more, check our [demo](https://www.youtube.com/watch?v=UjGXaB7CqaM)!
 
-Report [here]().
+Report [here](https://github.com/blobquiet/Emotive-Robot-Companion-CIR/blob/main/Ada_Emotive_Robot_Companion.pdf).
 
 ## What's on this repo?
 
